@@ -50,13 +50,16 @@ pip install -r requirements.txt
 ```
 
 ### Usage
-1. Prepare your input data: Create a text file containing the editing instructions for the image (e.g., adjust brightness, apply filters, etc.).
-
-2. Run the TouchUp AI model, specifying the input data file and desired input power:
+1. Run the main file app.py to start the TouchUp AI web application:
 ```bash
-python touchup_ai.py --input_data input.txt --input_power 0.8
+python app.py
 ```
-3. The model will process the input and regenerate the edited image. Both the original and edited images will be saved to the output directory.
+2. Access the application through your web browser at the provided local address (e.g., http://127.0.0.1:7860).
+3. Upload an image, crop it if needed.
+4. Enter textual instructions for desired edits in the "Text Input" box, and set the editing power using the slider.
+5. Click "Apply" to process the image based on your input.
+6. View the edited image along with the original image for comparison.
+7. Modify instructions and apply edits iteratively until satisfied with the result.
 
 ## Contributing
 - We welcome contributions from the community! If you want to make any improvements or report issues, you are welcome. Just fork the repo, and make the pull request with your added features or optimized code. We'll check it out and merge if everything works fine.
