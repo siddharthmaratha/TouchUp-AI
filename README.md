@@ -1,22 +1,7 @@
----
-title: TouchUp AI
-emoji:  🐨
-colorFrom: blue
-colorTo: indigo
-sdk: gradio
-sdk_version: 3.24.1
-app_file: app.py
-pinned: false
----
-
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
-
----
-
 # TouchUp AI - Advanced Image Editing Model
-TouchUp AI Logo
+![image](https://github.com/siddharthmaratha/TouchUp-AI/assets/80692281/69cf00ea-87a7-4499-b4e0-f9367c1ad7d1)
 
-TouchUp AI is a powerful Python-based machine learning project designed to revolutionize image editing. This sophisticated model takes textual input from the user and utilizes deep learning algorithms to perform advanced image editing, allowing users to effortlessly enhance and modify their images with precision.
+TouchUp AI is an innovative Python machine learning project that introduces a cutting-edge approach to image editing. Powered by a trained model, this system allows users to modify images through textual input, utilizing a specified input power to control the extent of the applied edits. The model then regenerates the image with the requested edits as provided by the user, delivering an intuitive and precise image enhancement experience. Whether adjusting brightness, applying artistic filters, or removing/adding objects, TouchUp AI empowers users to transform their images effortlessly and achieve the desired visual results.
 
 ## Features
 **Intuitive Text-Based Input:** TouchUp AI enables users to provide textual instructions specifying desired edits to their images. Through natural language processing (NLP) techniques, the model interprets the instructions to understand the user's editing requirements.
