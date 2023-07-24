@@ -1,5 +1,8 @@
 # TouchUp AI - Advanced Image Editing Model
-![image](https://github.com/siddharthmaratha/TouchUp-AI/assets/80692281/69cf00ea-87a7-4499-b4e0-f9367c1ad7d1)
+![image](https://github.com/siddharthmaratha/TouchUp-AI/assets/80692281/33726e30-c1f0-4f9a-ae63-c376e1c5da8e)
+
+1. Please note that this project is currently in it's early development stages and may have some limitations.
+2. While being an exciting project, TouchUp AI is intended for recreational use and experimentation.
 
 TouchUp AI is an innovative Python machine learning project that introduces a cutting-edge approach to image editing. Powered by a trained model, this system allows users to modify images through textual input, utilizing a specified input power to control the extent of the applied edits. The model then regenerates the image with the requested edits as provided by the user, delivering an intuitive and precise image enhancement experience. Whether adjusting brightness, applying artistic filters, or removing/adding objects, TouchUp AI empowers users to transform their images effortlessly and achieve the desired visual results.
 
