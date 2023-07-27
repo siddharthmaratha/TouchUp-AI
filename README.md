@@ -51,3 +51,5 @@ python app.py
 
 ## Contributing
 - We welcome contributions from the community! If you want to make any improvements or report issues, you are welcome. Just fork the repo, and make the pull request with your added features or optimized code. We'll check it out and merge if everything works fine.
+
+#### Made with ♥ by [Ronak Sharma](https://github.com/Ronaknowal)
